@@ -16,7 +16,7 @@ if (ai_turn==false) // if its players turn
 			{
 				x=mouse_x;
 				y=mouse_y;
-				depth=room_height;
+				depth=-room_height;
 			}
 		}
 	}
